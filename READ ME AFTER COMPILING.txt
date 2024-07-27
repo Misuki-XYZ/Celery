@@ -1,0 +1,1 @@
+After compiling celery inside the Injector files, add it to the compiled celery.
